@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{TODO: A simple Gem to interface to Whitepages Pro API}
   spec.description   = %q{TODO:  A simple Gem to interface to Whitepages Pro API See Readme.md for details}
-  spec.homepage      = "TODO: https://github.com/ejd91717/rails_whitepages"
+  spec.homepage      = "TODO: https://github.com/ellery/rails_whitepages"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
