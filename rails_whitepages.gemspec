@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ellery J. Durgin"]
   spec.email         = ["ejd91717@gmail.com"]
 
-  spec.summary       = %q{TODO: A simple Gem to interface to Whitepages Pro API}
-  spec.description   = %q{TODO:  A simple Gem to interface to Whitepages Pro API See Readme.md for details}
-  spec.homepage      = "TODO: https://github.com/ellery/rails_whitepages"
+  spec.summary       = %q{A simple Gem to interface to Whitepages Pro API}
+  spec.description   = %q{  A simple Gem to interface to Whitepages Pro API See Readme.md for details}
+  spec.homepage      = "https://github.com/ellery/rails_whitepages"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
